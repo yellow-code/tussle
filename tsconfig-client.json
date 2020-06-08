@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "rootDir": "src/",
+        "outDir": "build/client/",
+        "sourceMap": true,
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "exclude": [
+        "src/server"
+    ]
+  }
